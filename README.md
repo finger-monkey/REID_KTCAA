@@ -1,5 +1,5 @@
 # REID_KTCAA
-## [Code](https://github.com/Maximilian1794/KTCAA) (The code will be made available after the paper is officially published)
+## [Code](https://github.com/Maximilian1794/KTCAA) 
 
 
 ## [Paper](Paper/Paper.pdf) and [Supplemental Material](Paper/Appendix.pdf)
